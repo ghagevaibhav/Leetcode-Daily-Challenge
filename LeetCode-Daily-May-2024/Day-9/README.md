@@ -1,5 +1,3 @@
----
-
 ## Algorithm Steps
 
 1. **Input Validation**:
@@ -31,4 +29,3 @@
 - The algorithm uses only a constant amount of extra space.
 - Space complexity is O(1).
 
----
