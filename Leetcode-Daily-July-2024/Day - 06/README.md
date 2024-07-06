@@ -1,5 +1,4 @@
-"""
-# passThePillow Function Explanation
+# PassThePillow Function Explanation
 
 The `passThePillow` function simulates a game where a pillow is passed around in a circle of `n` people, and the goal is to determine who has the pillow after a certain amount of `time`.
 
